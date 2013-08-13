@@ -1,5 +1,6 @@
 ## Debian (Wheezy)
 
-- Nginx 1.2.1
-- PHP 5.4.4-12
-- MySQL 5.5.28
+- Nginx 1.2
+- PHP 5.4
+- MySQL 5.6
+- Samba 3.6

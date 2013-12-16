@@ -1,0 +1,20 @@
+[user]
+	name = Kieron
+	email = rwarasaurus@gmail.com
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+	ui = auto
+[credential]
+	helper = cache --timeout=3600
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	br = branch
+[push]
+	default = matching
+[branch]
+	autosetuprebase = always
